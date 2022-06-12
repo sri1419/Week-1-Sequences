@@ -2,29 +2,29 @@
 
 To be accomplished :
 
-1.Two Sum
+1. Two Sum
 
-2.Contains Duplicate
+2. Contains Duplicate
 
-3.Best Time to Buy and Sell Stocks
+3. Best Time to Buy and Sell Stocks
 
-4.Valid Anagram
+4. Valid Anagram
 
-5.Valid Parentheses
+5. Valid Parentheses
 
-6.Maximum Subarray
+6. Maximum Subarray
 
-7.Product of Array Except Self
+7. Product of Array Except Self
 
-8.3Sum
+8. 3Sum
 
-9.Merge Intervals
+9. Merge Intervals
 
-10.Group Anagrams
+10. Group Anagrams
 
 
 To Try:
 
-1.Maximum Product Subarray
+1. Maximum Product Subarray
 
-2.Search in Rotated Sorted Array
+2. Search in Rotated Sorted Array
