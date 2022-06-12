@@ -1,9 +1,13 @@
 # Week-1-Sequences (June 12th,2022 - June 19th,2022)
 
 To be accomplished :
+
 1.Two Sum
+
 2.Contains Duplicate
+
 3.Best Time to Buy and Sell Stocks
+
 4.Valid Anagram
 5.Valid Parentheses
 6.Maximum Subarray
